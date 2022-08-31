@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OnlineLion
+- 👀 I’m interested in small coding projects
+- 🌱 I’m currently learning building a simple website using react
